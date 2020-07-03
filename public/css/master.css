@@ -1,0 +1,37 @@
+#main-container {
+    padding-top: 65px;
+}
+
+.custom-jumbotron-padding {
+    padding: 15px 25px 35px 25px;
+}
+
+.custom-jumbotron-button-width {
+    width: 97px;
+}
+
+.custom-table-col-index {
+    width: 5%;
+}
+
+.custom-table-title-h2 {
+    margin-top: 0px;
+}
+
+.custom-hr-margin-0px {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+a.back-to-top {
+    display: none;
+	width: 40px;
+	height: 40px;
+	position: fixed;
+	z-index: 999;
+	right: 20px;
+	bottom: 20px;
+	-webkit-border-radius: 30px;
+	-moz-border-radius: 30px;
+	border-radius: 30px;
+}
